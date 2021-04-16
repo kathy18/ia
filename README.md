@@ -2,6 +2,8 @@
 Integrantes
 Carlos Valer Pacompia
 
-Katherine jimenez Vivanco
-Fernando Ramirez Arredondo
+Katherine jimenez Vivanco 
+
+Fernando Ramirez 
+
 Rubén guzmán chiroque
